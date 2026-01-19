@@ -1,0 +1,1 @@
+# picky-nickname-validator
